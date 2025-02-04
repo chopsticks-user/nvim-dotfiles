@@ -1,0 +1,20 @@
+
+
+v  <Space>ca   * <Lua 112: /usr/share/nvim/runtime/lua/vim/lsp/buf.lua:830>
+	Last set from Lua (run Nvim with -V1 for more details)
+n  <Space>ca   * <Lua 111: /usr/share/nvim/runtime/lua/vim/lsp/buf.lua:830>
+	Last set from Lua (run Nvim with -V1 for more details)
+n  <Space>cd   * <Lua 110: /usr/share/nvim/runtime/lua/vim/lsp/buf.lua:93>
+	Last set from Lua (run Nvim with -V1 for more details)
+n  <Space>ph   * <Lua 93: ~/.local/share/nvim/lazy/telescope.nvim/lua/telescope/builtin/init.lua:502>
+	Last set from Lua (run Nvim with -V1 for more details)
+n  <Space>pb   * <Lua 92: ~/.local/share/nvim/lazy/telescope.nvim/lua/telescope/builtin/init.lua:502>
+	Last set from Lua (run Nvim with -V1 for more details)
+n  <Space>pg   * <Lua 90: ~/.local/share/nvim/lazy/telescope.nvim/lua/telescope/builtin/init.lua:502>
+	Last set from Lua (run Nvim with -V1 for more details)
+n  <Space>pf   * <Lua 89: ~/.local/share/nvim/lazy/telescope.nvim/lua/telescope/builtin/init.lua:502>
+	Last set from Lua (run Nvim with -V1 for more details)
+n  <Space>cf   * <Lua 32: /usr/share/nvim/runtime/lua/vim/lsp/buf.lua:216>
+	Last set from Lua (run Nvim with -V1 for more details)
+n  <Space>pv   * <Lua 23: vim/_editor.lua:0>
+	Last set from Lua (run Nvim with -V1 for more details)
