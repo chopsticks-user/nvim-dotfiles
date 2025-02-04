@@ -1,2 +1,1 @@
-require('frost')
-
+require("config")
