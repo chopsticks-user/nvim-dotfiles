@@ -3,6 +3,10 @@
 #include <vector>
 #include <ranges>
 
+auto vec() -> std::vector<int> {
+  return {};
+}
+
 constexpr auto test() -> int {
   return 5;
 }

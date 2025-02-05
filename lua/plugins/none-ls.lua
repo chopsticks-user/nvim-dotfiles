@@ -8,5 +8,6 @@ return {
     })
 
     vim.keymap.set("n", "<leader>cf", vim.lsp.buf.format, {})
+    vim.keymap.set("n", "<C-s>", ":w | lua vim.lsp.buf.format()<CR>", {})
   end,
 }
