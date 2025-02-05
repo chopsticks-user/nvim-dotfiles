@@ -20,12 +20,12 @@ return {
   {
     "neovim/nvim-lspconfig",
     dependencies = {
-      "hrsh7th/cmp-nvim-lsp",
+      -- "hrsh7th/cmp-nvim-lsp",
     },
     config = function()
       require("langs").lspSetup({
         lsp = require("lspconfig"),
-        cap = require("cmp_nvim_lsp").default_capabilities(),
+--        cap = require("cmp_nvim_lsp").default_capabilities(),
       })
 
       --local lspconfig = require("lspconfig")

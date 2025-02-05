@@ -9,9 +9,9 @@ return {
   end,
   lfSetup = function(lfb)
     return {
-      lfb.formatting.clang_format, -- c, cs, cpp, json, java, js
-      lfb.diagnostics.cmake_lint,
-      lfb.formatting.gersemi,
+      --lfb.formatting.clang_format, -- c, cs, cpp, json, java, js
+      --lfb.diagnostics.cmake_lint,
+      --lfb.formatting.gersemi,
       -- gccdiag -- c, cpp
     }
   end,
